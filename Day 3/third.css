@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one{
+    height: 95%;
+    width: 95%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    border: 10px solid red;
+
+}
+
+.first_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://i.pinimg.com/originals/2f/2b/94/2f2b94b885a5e1c360bd7f0b573a2dd0.png);
+}
+
+.second_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://cdn.justjared.com/wp-content/uploads/headlines/2013/05/iron-man-3-breaks-box-office-records-with-no-2-debut-of-all-time.jpg);
+}
+
+.third_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://i.pinimg.com/564x/29/b3/3c/29b33c1ee0dcbd63c03dddbb33efc80c.jpg);
+}
+
+.fourth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://img.zergnet.com/26678_300.jpg);
+}
+
+.fifth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://st1.bollywoodlife.com/wp-content/uploads/2019/11/black-widow.jpg?impolicy=Medium_Resize&w=300&h=300);
+}
+
+.sixth_child{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-image: url(https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-marvel-the-avengers-jeremy-renner.jpg);
+}
+
+
